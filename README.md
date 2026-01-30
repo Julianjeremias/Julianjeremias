@@ -1,7 +1,6 @@
-## Olá 👋
-<br>
-Sou o Julian, Catarinense, 34 anos.
-Atualmente estudando programação atravez da plataforma: <a href="https://devclub.com.br/" target="_blank">Dev Club</a>
+<h1>Olá 👋<h1/>
+<h2>Sou o Julian</h2>
+Catarinense, 34 anos. Atualmente estudando programação atravez da plataforma: <a href="https://devclub.com.br/" target="_blank">Dev Club</a>
 Tenho conhecimento em:
 <br>
 <br>
