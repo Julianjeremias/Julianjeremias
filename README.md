@@ -13,4 +13,7 @@ Estou iniciando o aprendizado de JavaScript e React
 
 ## Encontre-me nas redes sociais:
 <br>
+<a href="https://www.instagram.com/the.king_julian/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<br>
+<br>
 <a href="https://www.facebook.com/julian.souza.75" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook-logo"></a>
